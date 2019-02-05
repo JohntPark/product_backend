@@ -1,0 +1,17 @@
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\ProductRepositoryTest.deps.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\ProductRepositoryTest.runtimeconfig.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\ProductRepositoryTest.runtimeconfig.dev.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\ProductRepositoryTest.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.csprojAssemblyReference.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.csproj.CoreCompileInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.AssemblyInfoInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.AssemblyInfo.cs
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\ProductRepositoryTest.pdb
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\BasicProductSimulation.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\bin\Debug\netcoreapp2.2\BasicProductSimulation.pdb
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.csproj.CopyComplete
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductRepositoryTest\obj\Debug\netcoreapp2.2\ProductRepositoryTest.pdb

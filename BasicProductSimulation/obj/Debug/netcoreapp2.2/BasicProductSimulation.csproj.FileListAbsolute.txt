@@ -1,0 +1,14 @@
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\bin\Debug\netcoreapp2.2\BasicProductSimulation.deps.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\bin\Debug\netcoreapp2.2\BasicProductSimulation.runtimeconfig.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\bin\Debug\netcoreapp2.2\BasicProductSimulation.runtimeconfig.dev.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\bin\Debug\netcoreapp2.2\BasicProductSimulation.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\bin\Debug\netcoreapp2.2\BasicProductSimulation.pdb
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.csprojAssemblyReference.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.csproj.CoreCompileInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.RazorAssemblyInfo.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.RazorAssemblyInfo.cs
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.AssemblyInfoInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.AssemblyInfo.cs
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.RazorTargetAssemblyInfo.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\BasicProductSimulation\obj\Debug\netcoreapp2.2\BasicProductSimulation.pdb

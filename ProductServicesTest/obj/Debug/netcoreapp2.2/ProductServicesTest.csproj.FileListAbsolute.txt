@@ -1,0 +1,17 @@
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\ProductServicesTest.deps.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\ProductServicesTest.runtimeconfig.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\ProductServicesTest.runtimeconfig.dev.json
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\ProductServicesTest.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.csproj.CoreCompileInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.AssemblyInfoInputs.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.AssemblyInfo.cs
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\ProductServicesTest.pdb
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\BasicProductSimulation.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\bin\Debug\netcoreapp2.2\BasicProductSimulation.pdb
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.csprojAssemblyReference.cache
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.csproj.CopyComplete
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.dll
+C:\Users\John.TaeHeePark\source\repos\BasicProductSimulation\ProductServicesTest\obj\Debug\netcoreapp2.2\ProductServicesTest.pdb
